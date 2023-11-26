@@ -1,5 +1,5 @@
 {
-    "name": "My PWA",
+    "name": "FirebaseMyPWA",
     "short_name": "PWA",
     "description": "A simple Progressive Web App",
     "start_url": "/",
